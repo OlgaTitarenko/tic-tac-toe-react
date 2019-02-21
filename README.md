@@ -1,5 +1,7 @@
 Prew (https://olgatitarenko.github.io/tic-tac-toe-react/)
-
+PullRequest (https://github.com/OlgaTitarenko/tic-tac-toe-react/pull/1)
+-----------------------------------------------
+-----------------------------------------------
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
