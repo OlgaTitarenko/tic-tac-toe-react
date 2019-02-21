@@ -1,4 +1,5 @@
 Prew (https://olgatitarenko.github.io/tic-tac-toe-react/)
+----
 PullRequest (https://github.com/OlgaTitarenko/tic-tac-toe-react/pull/1)
 -----------------------------------------------
 -----------------------------------------------
